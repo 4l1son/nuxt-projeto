@@ -30,7 +30,7 @@
         
           <div class="container mx-auto">
       
-<h2 class="text-lg font-bold">Service - Quarta pagina</h2>
+       <h2 class="text-lg font-bold">About - Terceira pagina</h2>
        <p class="flex justify">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras dignissim erat velit, at dignissim enim dictum a. Fusce nec luctus leo. Morbi malesuada velit ligula, in congue turpis tincidunt eu. Ut tempor, ante at euismod consectetur, felis sem vestibulum ipsum, vitae condimentum massa dui et tellus. Donec eleifend, felis nec elementum volutpat, massa diam vehicula ligula, vitae ultrices dolor augue at arcu. Phasellus cursus velit enim, rutrum volutpat tellus mattis ut. Sed congue lectus sit amet est placerat vestibulum. Aliquam erat volutpat. Nulla facilisi. Vivamus vulputate vehicula diam at consectetur. Quisque velit justo, pretium pellentesque fermentum eu, efficitur id metus. Aenean massa orci, pretium ut diam sit amet, aliquam mattis libero.
 
@@ -57,8 +57,7 @@
   
       };
     },
-    methods:{
-    },
+    methods:{},
   };
   </script>
   
